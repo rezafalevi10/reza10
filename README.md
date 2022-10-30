@@ -1,8 +1,8 @@
 # reza10
  PRATIKUM 3
 
-| Nama : M Muammar |
-| Nim  : 312210663 |
+| Nama : Mochammad reza falevi |
+| Nim  : 312210156 |
 | Kelas  : Ti.22.B1  |
 
 ## Menghitung luas dan keliling lingkaran
